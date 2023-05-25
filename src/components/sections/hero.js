@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a Backend Developer specializing in building numerous projects that support other projects. I also provide exceptional
-        digital experiences to people like Server Hosting, VPS Hosting etc. Check my
+        digital experiences to people like Server Hosting, VPS Hosting etc. Check my projects
         at{' '}
         <a href="https://github.com/arpan-mandal" target="_blank" rel="noreferrer">
           GitHub
