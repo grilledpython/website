@@ -108,7 +108,7 @@ const Footer = () => {
         <a href="https://arpan.codes">
           <div>Made by Arpan Mandal</div>
 
-          )}
+          
         </a>
       </StyledCredit>
     </StyledFooter>
